@@ -37,6 +37,7 @@ import jxl.read.biff.BiffException;
 	public WebDriver driver;
 	public WebElement element;
 	public static String gTitle;
+	//new
 	//private SoftAssert softAssert = new SoftAssert();
 	
 	
